@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ASCII Art Website</title>
+    <title>foxtrots2</title></title>
     <style>
         body {
             background-color: black;
@@ -13,7 +12,7 @@
             padding: 50px;
         }
         pre {
-            white-space: pre-wrap;
+            black-space: pre-wrap;
             font-size: 20px;
         }
     </style>
@@ -21,7 +20,7 @@
 <body>
     <div>
         <pre>
-  __           _             _       ____  
+  __          _             _       ____  
  / _| _____  _| |_ _ __ ___ | |_ ___|___ \ 
 | |_ / _ \ \/ / __| '__/ _ \| __/ __| __) |
 |  _| (_) >  <| |_| | | (_) | |_\__ \/ __/ 
