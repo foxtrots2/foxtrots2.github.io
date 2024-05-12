@@ -49,3 +49,7 @@ button {
 button:hover {
     background-color: #555;
 }
+
+.footer {
+    position: fixed;
+    top
